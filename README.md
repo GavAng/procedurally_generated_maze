@@ -1,6 +1,6 @@
 # procedurally_generated_maze
 
-A script that generates mazes into your code editor's output.
+A script that generates mazes into your code editor's output. See *procedurally_generated_maze_game* repo first.
 
 I find sitting and pressing the run button a lot cooler than the maze game version of this project.
 
